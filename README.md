@@ -1,4 +1,4 @@
-# 🛒 productEase - E-commerce Web App 🚀
+# 🛒 productEase - E-commerce Web App 
 
 ## 📌 Overview
 A modern E-commerce web application designed to simulate real-world online shopping experiences. Users can browse products, view details, manage cart items, and complete a seamless checkout process with a responsive and scalable frontend architecture.
