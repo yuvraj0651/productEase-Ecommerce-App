@@ -237,8 +237,8 @@ const Products = ({ filteredProducts }) => {
                                         </div>
                                     </div>
                                     {/* Image */}
-                                    <div className="h-52 bg-gray-100 flex items-center justify-center text-5xl">
-                                        <div className="product-picture w-[7rem]">
+                                    <div className="bg-gray-100 flex items-center justify-center text-5xl">
+                                        <div className="product-picture">
                                             <img loading="lazy" src={item.image} alt={item.title} className="w-full h-auto object-cover" />
                                         </div>
                                     </div>
