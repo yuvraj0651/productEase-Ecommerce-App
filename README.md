@@ -1,4 +1,5 @@
 # 🛒 productEase - E-commerce Web App 
+![productEase](https://github.com/user-attachments/assets/908e0808-5f9d-421f-9313-28d447498e25)
 
 ## 📌 Overview
 A modern E-commerce web application designed to simulate real-world online shopping experiences. Users can browse products, view details, manage cart items, and complete a seamless checkout process with a responsive and scalable frontend architecture.
